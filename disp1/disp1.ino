@@ -1,7 +1,7 @@
 /*
  * Autor: Denilson Gomes Vaz da Silva
  * Graduando em Engenharia da Computação
- * Internet das Coisas (IoT) - Prof. Dr. Wendley Silva
+ * Projeto de Internet das Coisas (IoT) - Prof. Dr. Wendley Silva
  * Codigo para monitorar 3 ou mais variaveis
  */
 
