@@ -16,7 +16,7 @@ int valorLDR = 0; //Variavel para sinal do LDR
 #define pinSound A1 // Pino do sensor de som
 int valorSOM = 0; //Variavel para sinal do sensor de som
 #define pinPIR 3 // Pino do sensor de presença PIR
-bool valorPIR;
+bool valorPIR; // Variavel para valor do sensor de presença PIR
 
 //--Instanciando Objetos--//
 DHT dht(pinDHT, DHTTYPE, 15); // Inicializando o sensor DHT
