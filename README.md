@@ -4,7 +4,7 @@
 <br>
 <br>
 
-<h2 align="right" >Sistema de Controle e Monitoramento Remoto<br> CoMoRe
+<h2 align="right" >Sistema de Controle e Monitoramento Remoto<br>
 <br>
 <br>
 <br>
