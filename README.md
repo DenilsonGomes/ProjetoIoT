@@ -13,6 +13,7 @@
 <br>
 
 1.Introdução
+==========
 
 <p>Esse projeto tem a intenção de monitorar e controlar algumas variavéis de forma remota.
 Neste exemplo optamos por monitorar a temperatura, a umidade, presença e luminosidade.
@@ -20,6 +21,7 @@ Foi utilizado sensores para monitorar essas grandezas fisicas. Cada sensor pode 
 ligado ou desligado, também remotamente.<p/>
 
 2.Visão Geral
+-----------
 
 <p></p>
 <p>O sistema desenvolvido consiste de 2 esp8266 que se comunicam com um servidor broker MQTT.
