@@ -35,6 +35,7 @@ disponivel para Andoid e IOS.
 ---
 
 <div id='chap3'/>
+
 3.Artigo
 ==========
 <p></p>
