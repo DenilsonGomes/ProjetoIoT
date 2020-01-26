@@ -1,7 +1,5 @@
 # Sistema de Controle e Monitoramento Remoto
-
 ---
-
 1.Introdução
 ==========
 
@@ -10,9 +8,10 @@ Neste exemplo optamos por monitorar a temperatura, a umidade, presença e lumino
 Foi utilizado sensores para monitorar essas grandezas fisicas. Cada sensor pode ser controlado,
 ligado ou desligado, também remotamente.<p/>
 
-2.Visão Geral
------------
+---
 
+2.Visão Geral
+==========
 <p></p>
 <p>O sistema desenvolvido consiste de 2 esp8266 que se comunicam com um servidor broker MQTT.
 Um esp8266 está conectado aos sensores e envia os dados dos mesmo para o servidor broker MQTT.
@@ -22,3 +21,12 @@ variaveis sensoriadas.
 O servidor broker MQTT escolhido foi o CloudMQTT. Após a publicação no broker MQTT pode-se
 inscrever no mesmo atraves de outros dispositivos. Neste projeto fizemos o uso do MQTT Dash,
 disponivel para Andoid e IOS.
+
+---
+
+3.Artigo
+==========
+<p></p>
+<p>Foi desenvolvido um artigo para aproveitamento deste projeto na disciplina de Internet das Coisas, do curso de Engenharia de Computação da UFC do campus Sobral. O artigo desenvolvido pode ser visto no link a seguir.
+
+[Artigo](https://drive.google.com/open?id=1mk14w89wjMI3-fXUGNsRDA7_hJkSCFa0)
