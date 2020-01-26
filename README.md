@@ -1,16 +1,6 @@
-***
-<h1 align="right" > Universidade Federal do Ceará<br>Engenharia da Computação
+# Sistema de Controle e Monitoramento Remoto
 
-<br>
-<br>
-
-<h2 align="right" >Sistema de Controle e Monitoramento Remoto<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+---
 
 1.Introdução
 ==========
